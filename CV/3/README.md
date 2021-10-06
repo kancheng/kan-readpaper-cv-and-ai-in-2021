@@ -3,8 +3,20 @@
 
 ## 計算機視覺
 
-Note
+Diffusion Probabilistic Models for 3D Point Cloud Generation
+用於 3D 點雲生成的擴散概率模型
 
+Shitong Luo, Wei Hu *
+Wangxuan Institute of Computer Technology
+Peking University
+{luost, forhuwei}@pku.edu.cn
+
+CVPR 2021 Best Paper Candidate
+https://arxiv.org/abs/2103.01458
+
+
+
+Note
 
 > 該研究提出了一個用於點雲生成的概率模型(probabilistic model for point cloud generation)，負責各種如形狀完成、上採樣、合成和數據增強(shape completion, upsampling, synthesis and data augmentation)等 3D 視覺任務等的基礎。
 >

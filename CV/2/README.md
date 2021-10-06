@@ -3,6 +3,23 @@
 
 ## 計算機視覺
 
+Learning Calibrated Medical Image Segmentation via Multi-rater Agreement Modeling
+通過多評估者協議建模學習校準的醫學圖像分割
+
+Wei Ji, Shuang Yu, Junde Wu, Kai Ma, Cheng Bian, Qi Bi, Jingjing Li, Hanruo Liu, Li Cheng, Yefeng Zheng
+
+1 Tencent Jarvis Lab, Shenzhen, China 
+2 University of Alberta, Canada
+3 Beijing Tongren Hospital, Capital Medical University, Beijing, China
+
+{wji3, lcheng5}@ualberta.ca, {shirlyyu, kylekma, yefengzheng}@tencent.com
+
+
+CVPR 2021 Best Paper Candidate
+Paper(Best Paper Candidate): https://openaccess.thecvf.com/content/CVPR2021/html/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.html
+Code: https://github.com/jiwei0921/MRNet/
+
+
 Note
 
 > 該研究為醫學圖像分割領域，研究者考量到在醫學圖像分析中，通常會收集來自不同的臨床專家或評估者們的多個註釋，希望能夠減少會發生的診斷錯誤。

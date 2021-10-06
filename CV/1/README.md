@@ -3,6 +3,18 @@
 
 ## 計算機視覺
 
+Privacy-Preserving Image Features via Adversarial Affine Subspace Embeddings
+通過對抗仿射子空間嵌入保護隱私的圖像特徵
+
+Mihai Dusmanu, Johannes L. Schönberger, Sudipta N. Sinha, Marc Pollefeys
+
+1 Department of Computer Science, ETH Zürich 
+2 Microsoft
+
+https://arxiv.org/abs/2006.06634
+CVPR 2021 Best Paper Candidate
+
+
 Note
 
 > 該篇研究是想要運用機算計視覺領域來保護個人隱私，簡單來說就是保護隱私的機器學習系統。因為計算機視覺系統需要使用者將自身的圖像特徵上傳到雲端進行處理和存放。
