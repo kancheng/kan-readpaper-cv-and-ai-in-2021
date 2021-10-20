@@ -1,7 +1,8 @@
 # kan-readpaper-homework
+
 期刊閱讀筆記與作業
 
-## 人工智慧
+## 人工智慧 Artificial Intelligence
 
 1. A game-theoretic analysis of networked system control for common-pool resource management(公共池資源管理) using multi-agent reinforcement learning
 使用多智能體強化學習進行公共池資源管理的網絡系統控制的博弈論分析
