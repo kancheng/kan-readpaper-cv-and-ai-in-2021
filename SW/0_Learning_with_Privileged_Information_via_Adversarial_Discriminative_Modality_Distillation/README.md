@@ -10,9 +10,16 @@
 
 ## Note
 
->
->
->
+> IMRAD - Introduction, Methods, Results And Discussion
+
+### Introduction
+
+### Methods
+
+### Results
+
+### Discussion
+
 
 ## About
 
